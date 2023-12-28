@@ -1,1 +1,2 @@
 # Fortune-Tech-Landing-page
+This repository contains code for a simple and responsive landing page that can be used for various purposes. The landing page is designed to adapt to different screen sizes, making it accessible and visually appealing across a range of devices.The landing page is developed using Bootstrap,HTML5 and CSS3, leveraging the latest web standards for enhanced compatibility and performance.
